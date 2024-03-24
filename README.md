@@ -1,1 +1,1 @@
-# technohacks_rockpaperscissors
+# rockpaperscissors
